@@ -3,7 +3,7 @@
   <img src="public/readme/hero.webp" alt="Project Banner" width="800">
   <br />
 
-# AI Résumé Analyzer 🤖📄
+# AI Resume Analyzer 🤖📄
 
 ### Smart ATS-compliant resume analysis powered by AI
 
